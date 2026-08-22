@@ -1,6 +1,6 @@
 ## Welcome to our Github site!
 
-We are a group of broke university students working as indie game developers for free. We make an assortment of games that we find fun to develop and worth your time.
+We are a group of broke university students working as indie game developers for free. We make an assortment of games that we find fun to develop and worth your time. We are also the developers of the Refraction game engine!
 
 We might start sharing resources we make for everyone to use and contribute effort to. If you see anything you find cool, you can easily contribute. Go wild!*
 
